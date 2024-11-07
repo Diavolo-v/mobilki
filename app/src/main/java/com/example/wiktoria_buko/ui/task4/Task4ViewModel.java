@@ -1,16 +1,16 @@
-package com.example.wiktoria_buko.ui.slideshow;
+package com.example.wiktoria_buko.ui.task4;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class SlideshowViewModel extends ViewModel {
+public class Task4ViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public SlideshowViewModel() {
+    public Task4ViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is task 3");
+        mText.setValue("This is task 4");
     }
 
     public LiveData<String> getText() {

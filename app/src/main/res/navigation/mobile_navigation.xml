@@ -22,4 +22,70 @@
         android:name="com.example.wiktoria_buko.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/task4"
+        android:name="com.example.wiktoria_buko.ui.task4.Task4Fragment"
+        android:label="task4"
+        tools:layout="@layout/fragment_task4" />
+    <fragment
+        android:id="@+id/task5"
+        android:name="com.example.wiktoria_buko.ui.task5.Task5Fragment"
+        android:label="task5"
+        tools:layout="@layout/fragment_task5" />
+    <fragment
+        android:id="@+id/task6"
+        android:name="com.example.wiktoria_buko.ui.task6.Task5Fragment"
+        android:label="task6"
+        tools:layout="@layout/fragment_task6" />
+    <fragment
+        android:id="@+id/task7"
+        android:name="com.example.wiktoria_buko.ui.task7.Task5Fragment"
+        android:label="task7"
+        tools:layout="@layout/fragment_task7" />
+    <fragment
+        android:id="@+id/task8"
+        android:name="com.example.wiktoria_buko.ui.task8.Task5Fragment"
+        android:label="task8"
+        tools:layout="@layout/fragment_task8" />
+    <fragment
+        android:id="@+id/task9"
+        android:name="com.example.wiktoria_buko.ui.task9.Task5Fragment"
+        android:label="task9"
+        tools:layout="@layout/fragment_task9" />
+    <fragment
+        android:id="@+id/task10"
+        android:name="com.example.wiktoria_buko.ui.task10.Task5Fragment"
+        android:label="task10"
+        tools:layout="@layout/fragment_task10" />
+    <fragment
+        android:id="@+id/task11"
+        android:name="com.example.wiktoria_buko.ui.task11.Task5Fragment"
+        android:label="task11"
+        tools:layout="@layout/fragment_task11" />
+    <fragment
+        android:id="@+id/task12"
+        android:name="com.example.wiktoria_buko.ui.task12.Task5Fragment"
+        android:label="task12"
+        tools:layout="@layout/fragment_task12" />
+    <fragment
+        android:id="@+id/task13"
+        android:name="com.example.wiktoria_buko.ui.task13.Task5Fragment"
+        android:label="task13"
+        tools:layout="@layout/fragment_task13" />
+    <fragment
+        android:id="@+id/task14"
+        android:name="com.example.wiktoria_buko.ui.task14.Task5Fragment"
+        android:label="task14"
+        tools:layout="@layout/fragment_task14" />
+    <fragment
+        android:id="@+id/task15"
+        android:name="com.example.wiktoria_buko.ui.task15.Task5Fragment"
+        android:label="task15"
+        tools:layout="@layout/fragment_task15" />
+    <fragment
+        android:id="@+id/task16"
+        android:name="com.example.wiktoria_buko.ui.task16.Task5Fragment"
+        android:label="task16"
+        tools:layout="@layout/fragment_task16" />
+
 </navigation>
